@@ -1,4 +1,4 @@
-# ASSIGNMENT 3.1
+# CoC python CLI version
 VILLAGE
 - G, V, W are the walls of Gameboard, Village and the Townhall
 - 4*3 grid in the center of the Gameboard is Townhall
